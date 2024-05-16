@@ -11,7 +11,7 @@ I'm Ana Luisa, a student of Systems Analysis and Development at Fatec Prof. Jess
 
 ## Skills
 
-- **Programming Languages:** Java, JavaScript, TypeScript
+- **Programming Languages:** Python, Java, JavaScript, TypeScript
 - **Web Development:** HTML, CSS, React
 - **Database:** MySQL, MongoDB
 - **Tools & Technologies:** Git, VS Code, Node.js
